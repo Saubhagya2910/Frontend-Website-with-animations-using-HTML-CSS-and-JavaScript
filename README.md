@@ -1,1 +1,1 @@
-# Frontend-Website-with-animatuions-using-HTML-CSS-and-JavaScript
+# Frontend-Website-with-animations-using-HTML-CSS-and-JavaScript
